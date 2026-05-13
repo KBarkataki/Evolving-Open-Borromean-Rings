@@ -12,6 +12,9 @@ functions.py			:			module of auxillary functions used within JONES.py
 
 # Whenever you access this code package 
 python3 -m venv borr_env
+
 source borr_env/bin/activate
+
 pip install -r requirements.txt
+
 python borr_plot.py
